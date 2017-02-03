@@ -45,3 +45,6 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+/StringFilter/bin/Debug
+/StringFilter/obj/Debug
+/StringFilter.Tests/obj/Debug
